@@ -1,0 +1,16 @@
+.main {
+	width: 100%;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	font-size: 25px;
+	font-weight: bold;
+	color: #400095;
+}
+.main div {
+	margin: 25px;
+	cursor: pointer;
+}
+.main div:hover {
+	color: rgb(168, 168, 168);
+}
